@@ -92,7 +92,7 @@ Output: The program displays the step-by-step sorting process and the final rank
 
 **Flowchart**
 
-![Flowchart](flowchart.png)
+![Flowchart](Flowchart.png)
 
 
 
