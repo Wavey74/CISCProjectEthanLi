@@ -16,7 +16,7 @@ Merge Sort was selected because it efficiently sorts datasets in O(n log n) time
 
 **Demo**
 
-!\[Demo](demo.png)
+![Demo](demo.png)
 
 
 
@@ -92,7 +92,7 @@ Output: The program displays the step-by-step sorting process and the final rank
 
 **Flowchart**
 
-!\[Flowchart](flowchart.png)
+![Flowchart](flowchart.png)
 
 
 
