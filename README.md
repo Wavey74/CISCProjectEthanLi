@@ -1,3 +1,25 @@
+\---
+
+title: Shuttle Stop Crowd Ranking
+
+emoji: 🚍
+
+colorFrom: blue
+
+colorTo: green
+
+sdk: streamlit
+
+sdk\_version: "1.32.0"
+
+app\_file: app.py
+
+pinned: false
+
+\---
+
+
+
 Project
 
 
@@ -16,7 +38,7 @@ Merge Sort was selected because it efficiently sorts datasets in O(n log n) time
 
 **Demo**
 
-![Demo](demo.png)
+!\[Demo](demo.png)
 
 
 
@@ -92,12 +114,11 @@ Output: The program displays the step-by-step sorting process and the final rank
 
 **Flowchart**
 
-## Flowchart
-![Flowchart](Flowchart.png)
+!\[Flowchart](flowchart.png)
 
 
 
-\## Steps to Run
+**Steps to Run**
 
 
 
@@ -107,7 +128,7 @@ python app.py
 
 
 
-\## Hugging Face Link
+**Hugging Face Link**
 
 
 
@@ -115,7 +136,7 @@ python app.py
 
 
 
-\## Testing
+**Testing**
 
 
 
@@ -133,7 +154,7 @@ Edge cases tested:
 
 
 
-\## Author
+**Author**
 
 Ethan Li
 
